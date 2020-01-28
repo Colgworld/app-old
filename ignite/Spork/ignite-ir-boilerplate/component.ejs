@@ -1,0 +1,31 @@
+import React, { Component } from 'react'
+// import PropTypes from 'prop-types';
+import { View, Text } from 'react-native'
+import styles from './Styles/<%= props.name %>Style'
+import { Grid, Row, Col } from 'react-native-easy-grid'
+import globalStyles from 'App/Themes/GlobalStyles'
+
+export default class <%= props.name %> extends Component {
+  // // Prop type warnings
+  // static propTypes = {
+  //   someProperty: PropTypes.object,
+  //   someSetting: PropTypes.bool.isRequired,
+  // }
+  //
+  // // Defaults for props
+  // static defaultProps = {
+  //   someSetting: false
+  // }
+
+  render () {
+    return (
+      <Grid style={styles.container}>
+        <Row>
+          <Col>
+            <Text><%= props.name %> Component</Text>
+          </Col>
+        </Row>
+      </Grid>
+    )
+  }
+}

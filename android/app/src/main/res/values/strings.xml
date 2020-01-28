@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Workspace</string>
+    <string name="fb_app_id">163378717495845</string>
+    <string name="fb_login_protocol_scheme">fb163378717495845</string>
+</resources>
