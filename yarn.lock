@@ -441,7 +441,7 @@
 
 "@types/node@^8.0.24":
   version "8.9.5"
-  resolved "http://registry.npmjs.org/@types/node/-/node-8.9.5.tgz#162b864bc70be077e6db212b322754917929e976"
+  resolved "https://registry.npmjs.org/@types/node/-/node-8.9.5.tgz#162b864bc70be077e6db212b322754917929e976"
 
 abab@^1.0.3:
   version "1.0.4"
@@ -7446,9 +7446,9 @@ undefined@^0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/undefined/-/undefined-0.1.0.tgz#9b706a4b32ad30c20ca4fe65ddcbbbdac32bded0"
 
-underscore@^1.8.3:
-  version "1.8.3"
-  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.8.3.tgz#4f3fb53b106e6097fcf9cb4109f2a5e9bdfa5022"
+underscore@^1.12.1:
+  version "1.12.1"
+  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.12.1.tgz#7bb8cc9b3d397e201cf8553336d262544ead829e"
 
 "unicode@>= 0.3.1":
   version "10.0.0"
